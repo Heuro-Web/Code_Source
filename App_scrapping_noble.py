@@ -1,7 +1,9 @@
+
+# Veillez installer requests allez dans le terminal et tapez pip install requests
 import tkinter
 from tkinter import scrolledtext, messagebox  
 import requests
-from datetime import date
+
 
 def accueil():
     print("Bienvenue !!!")
